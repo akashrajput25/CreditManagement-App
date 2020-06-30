@@ -1,0 +1,2 @@
+rootProject.name='CREDIT MANAGEMENT'
+include ':app'
